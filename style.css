@@ -9,6 +9,14 @@ body {
     max-width: 800px;
 }
 
+@media (max-width: 567px) {
+
+    h1 {
+        font-size: 18px;
+    }
+}
+
+
 h1,
 h2,
 h3 {
